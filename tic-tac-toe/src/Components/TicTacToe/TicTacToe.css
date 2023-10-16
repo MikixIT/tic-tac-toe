@@ -1,0 +1,32 @@
+.container{
+    text-align: center;
+}
+
+.title{
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    align-items: center;
+}
+
+.title span {
+    color: rgb(17, 96, 221);
+    padding-left: 5px;
+}
+
+.reset_game {
+    width: 250px;
+    height: 100px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 50px;
+    background: #1f3540;
+    font-size: 26px;
+    color: rgb(17, 96, 221);
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
